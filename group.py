@@ -24,12 +24,12 @@ my_group = {
         'relationship': {
             'partner' : 'Jill'
         },
-    } 
+    }, 
     'Nash':{
         'age' : 34,
         'job' : 'chef',
         'relationship':{
-            'landlord' : 'Zalika'
+            'landlord' : 'Zalika',
             'cousin' : 'john'
 
 
